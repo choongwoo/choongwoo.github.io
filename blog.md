@@ -1,7 +1,7 @@
 ---
 layout: blog
 permalink: /blog/
-title: Choong | Blog
+title: Woo | Blog
 pagination:
   enabled: true
 ---

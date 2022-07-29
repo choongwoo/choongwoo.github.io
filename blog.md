@@ -1,7 +1,7 @@
 ---
 layout: blog
 permalink: /blog/
-title: Woo | Blog
+title: Woo wep site| Blog
 pagination:
   enabled: true
 ---

@@ -1,5 +1,5 @@
 ---
 layout: home
-home_text: Welcome to my Website
+home_text: Jaba Spring Python3
 title: ChoongWoo
 ---

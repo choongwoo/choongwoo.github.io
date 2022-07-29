@@ -1,5 +1,5 @@
 ---
 layout: home
-home_text: Jaba Spring Python3
+home_text: Jaba SpringㅣPython3
 title: ChoongWoo
 ---
